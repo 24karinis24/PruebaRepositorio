@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\salak401\\Desktop\\PruebaRepositorio\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\salak401\\Desktop\\PruebaRepositorio\\HolaMundo\\HolaMundo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\salak401\\Desktop\\PruebaRepositorio\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\salak401\\Desktop\\PruebaRepositorio\\HolaMundo\\HolaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salak401\\Desktop\\PruebaRepositorio\\ConsoleApp\\ConsoleApp.csproj",
-        "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\salak401\\Desktop\\PruebaRepositorio\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\salak401\\Desktop\\PruebaRepositorio\\HolaMundo\\HolaMundo.csproj",
+        "projectName": "HolaMundo",
+        "projectPath": "C:\\Users\\salak401\\Desktop\\PruebaRepositorio\\HolaMundo\\HolaMundo.csproj",
         "packagesPath": "C:\\Users\\salak401\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salak401\\Desktop\\PruebaRepositorio\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\salak401\\Desktop\\PruebaRepositorio\\HolaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
