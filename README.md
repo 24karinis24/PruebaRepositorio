@@ -2,8 +2,5 @@
 # tal vez esto no es nada comparado a mi futuro
 # Esto es un poema susurrado al olvido, donde la juventud acaba y se enaltece la madurez que cada uno arrastra tras sus espaldas. Experiencias vividas y por vivir que se han teñido de frialdad y desinteres, donde la rápidez con la que el mundo avanza ya no nos hace sentir maravillados sino, para desventaja de todos, nos emouja a deciciones que nunca debieron ser tomadas. Ya no lloro, aunque me pese el corazón de forma tan gigantesca e ironica para que me vea obligada a desahogar mis penas en un readme de visual estudio code que nunca nadie leera, ya no lloro..
 
-<<<<<<< HEAD
 # tralalero tralala
-=======
 #ahhhhhh cambio para generar conflicto
->>>>>>> refs/remotes/origin/main
