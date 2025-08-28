@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mechi\\Desktop\\PruebaRepositorio\\HolaMundo\\HolaMundo.csproj",
-      "projectName": "HolaMundo",
-      "projectPath": "C:\\Users\\mechi\\Desktop\\PruebaRepositorio\\HolaMundo\\HolaMundo.csproj",
+      "projectUniqueName": "C:\\Users\\mechi\\Desktop\\PruebaRepositorio\\Tin\\Tin.csproj",
+      "projectName": "Tin",
+      "projectPath": "C:\\Users\\mechi\\Desktop\\PruebaRepositorio\\Tin\\Tin.csproj",
       "packagesPath": "C:\\Users\\mechi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mechi\\Desktop\\PruebaRepositorio\\HolaMundo\\obj\\",
+      "outputPath": "C:\\Users\\mechi\\Desktop\\PruebaRepositorio\\Tin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
